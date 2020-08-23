@@ -1,1 +1,2 @@
-# dom-loops
+# DOM Loops
+Class practice on DOM manipulation.
